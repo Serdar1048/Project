@@ -14,5 +14,7 @@ public class Melis {
         System.out.println("melis5");
 
         System.out.println("Bismillah");
+
+        System.out.println("Ol artik");
     }
 }
