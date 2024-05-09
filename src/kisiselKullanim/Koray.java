@@ -5,5 +5,7 @@ public class Koray {
         System.out.println("DATABASE(KORAY) BURADA");
 
         System.out.println("aaaaaaaaaaa");
+
+        System.out.println("asdasdasd");
     }
 }
